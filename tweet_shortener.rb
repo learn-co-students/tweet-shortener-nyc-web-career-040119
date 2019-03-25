@@ -1,1 +1,1 @@
-# Write your code here.
+sentence.gsub(Regexp.union(replacements.keys), replacements)# Write your code here.
